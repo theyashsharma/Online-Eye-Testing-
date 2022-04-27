@@ -7,21 +7,21 @@ Early diagnosis of ocular disorders such as diabetes, glaucoma, cataracts, age-r
 
 Multiclass labels :
 
-Normal (N),
+-Normal (N),
 
-Diabetes (D),
+-Diabetes (D),
 
-Glaucoma (G),
+-Glaucoma (G),
 
-Cataract (C),
+-Cataract (C),
 
-Age related Macular Degeneration (A),
+-Age related Macular Degeneration (A),
 
-Hypertension (H),
+-Hypertension (H),
 
-Pathological Myopia (M),
+-Pathological Myopia (M),
 
-Other diseases/abnormalities (O)
+-Other diseases/abnormalities (O)
 
 ## References :
 
